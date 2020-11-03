@@ -1,0 +1,23 @@
+.container{
+   margin-bottom: 100px;
+}
+.rights{
+    background-image: url("BG/bg-1.png");
+    background-repeat: no-repeat;
+    
+}
+#ii{
+    background-image: url("BG/bg-2.png");
+    background-repeat: no-repeat;
+}
+.text{
+    text-align: center;
+}
+#io{
+    margin-bottom: 0px;
+}
+.cl{
+    border: solid red 5px;
+    padding-top: 185px;
+    
+}
